@@ -1,5 +1,5 @@
 import React from 'react';
-import TodoView from './TODO LIST/components/TodoView/TodoView';
+import TodoView from './todo-list/components/TodoView/TodoView';
 
 const users = [
 
